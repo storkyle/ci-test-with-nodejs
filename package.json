@@ -1,0 +1,17 @@
+{
+  "name": "ci-test-with-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/storkyle/ci-test-with-nodejs.git",
+  "author": "StorkyLe <quangnhat2429@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "babel-jest": "^25.1.0",
+    "jest": "^25.1.0"
+  }
+}
