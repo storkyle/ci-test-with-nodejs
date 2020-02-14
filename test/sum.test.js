@@ -7,5 +7,5 @@ test("test function sum() in utils", () => {
 
 test("test function sum() with array string arguments", () => {
   const result = calc.sum("1", "2", "3");
-  expect(result).toBe(312);
+  expect(result).toBe(31);
 });
